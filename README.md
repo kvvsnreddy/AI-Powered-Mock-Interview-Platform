@@ -1,8 +1,9 @@
-Here’s a professional and well-structured `README.md` file for your GitHub repository based on the project details you provided:
+<img width="1782" height="892" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/ee1fbfc4-3271-462c-8c11-8918ef2a3fc5" />Here’s a professional and well-structured `README.md` file for your GitHub repository based on the project details you provided:
 
 ---
 
 # AI-Powered Mock Interview Platform
+
 
 
 An AI-powered platform that simulates realistic technical interviews, providing personalized questions, live coding challenges, voice-based Q&A, and detailed feedback.
